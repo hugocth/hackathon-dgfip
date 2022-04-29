@@ -7,3 +7,12 @@
 Hugo Chan-To-Hing
 
 Bruno Tabet
+
+## Installation de l'environnement
+
+```
+conda create -n hackathon-dgfip python=3.9
+conda activate hackathon-dgfip
+conda install -c conda-forge geopandas
+pip install -r requirements.txt
+```
